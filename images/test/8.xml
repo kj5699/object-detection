@@ -1,26 +1,26 @@
 <annotation>
 	<folder>test</folder>
 	<filename>8.jpeg</filename>
-	<path>G:\intern\test\8.jpeg</path>
+	<path>/home/jk/downloads/test/8.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>600</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>headphone</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>114</ymin>
-			<xmax>739</xmax>
-			<ymax>821</ymax>
+			<xmin>79</xmin>
+			<ymin>16</ymin>
+			<xmax>522</xmax>
+			<ymax>400</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
 	<filename>31.jpeg</filename>
-	<path>G:\intern\train\31.jpeg</path>
+	<path>/home/jk/downloads/train/31.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>612</width>
-		<height>414</height>
-		<depth>3</depth>
+		<width>600</width>
+		<height>400</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>headphone</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>363</xmin>
-			<ymin>101</ymin>
-			<xmax>612</xmax>
-			<ymax>347</ymax>
+			<xmin>44</xmin>
+			<ymin>122</ymin>
+			<xmax>561</xmax>
+			<ymax>344</ymax>
 		</bndbox>
 	</object>
 </annotation>

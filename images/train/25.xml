@@ -1,26 +1,62 @@
 <annotation>
 	<folder>train</folder>
 	<filename>25.jpeg</filename>
-	<path>G:\intern\train\25.jpeg</path>
+	<path>/home/jk/downloads/train/25.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>612</width>
-		<height>408</height>
+		<width>600</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>no_headphone</name>
+		<name>headphone</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>346</xmin>
-			<ymin>67</ymin>
-			<xmax>479</xmax>
-			<ymax>151</ymax>
+			<xmin>14</xmin>
+			<ymin>28</ymin>
+			<xmax>186</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>18</ymin>
+			<xmax>321</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>16</ymin>
+			<xmax>441</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>17</ymin>
+			<xmax>582</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 </annotation>

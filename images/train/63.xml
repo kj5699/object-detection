@@ -1,13 +1,13 @@
-<annotation>
+<annotation verified="yes">
 	<folder>train</folder>
 	<filename>63.jpeg</filename>
-	<path>G:\intern\train\63.jpeg</path>
+	<path>/home/jk/downloads/train/63.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>612</width>
-		<height>408</height>
+		<width>600</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>402</xmin>
-			<ymin>76</ymin>
-			<xmax>503</xmax>
-			<ymax>129</ymax>
+			<xmin>37</xmin>
+			<ymin>77</ymin>
+			<xmax>162</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>196</ymin>
+			<xmax>421</xmax>
+			<ymax>202</ymax>
 		</bndbox>
 	</object>
 </annotation>

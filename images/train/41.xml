@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>41.jpeg</filename>
-	<path>G:\intern\train\41.jpeg</path>
+	<path>/home/jk/downloads/train/41.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>612</width>
-		<height>408</height>
+		<width>600</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>420</xmin>
-			<ymin>136</ymin>
-			<xmax>496</xmax>
-			<ymax>265</ymax>
+			<xmin>67</xmin>
+			<ymin>49</ymin>
+			<xmax>506</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
