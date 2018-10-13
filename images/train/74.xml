@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>74.jpeg</filename>
+	<path>G:\intern\train\74.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>38</ymin>
+			<xmax>146</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

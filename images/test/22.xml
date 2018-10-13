@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>22.jpeg</filename>
+	<path>G:\intern\test\22.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>91</ymin>
+			<xmax>1070</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>
